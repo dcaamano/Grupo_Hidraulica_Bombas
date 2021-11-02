@@ -1,0 +1,51 @@
+{
+    "title": "Test formativo",
+    "description": "Responda las siguientes preguntas",
+    "language": "eng",
+    "questions": [
+        {
+            "question_type": "multiple_choice",
+            "statement": "Para el sistema dado k = 0 indica:",
+            "options": [
+                "El caudal m\u00e1ximo y la altura m\u00ednima",
+                "El caudal m\u00e1ximo y la altura m\u00e1xima",
+                "El caudal m\u00ednimo y la altura m\u00e1xima",
+                "El caudal m\u00ednimo y la altura m\u00ednima"
+            ],
+            "solution": "El caudal m\u00e1ximo y la altura m\u00ednima"
+        },
+        {
+            "question_type": "multiple_choice",
+            "statement": "\u00bfPregunta 2?",
+            "options": [
+                "incorrecta",
+                "correcta",
+                "incorrecta",
+                "incorrecta"
+            ],
+            "solution": "correcta"
+        },
+        {
+            "question_type": "multiple_choice",
+            "statement": "\u00bfPregunta 3?",
+            "options": [
+                "incorrecta",
+                "incorrecta",
+                "incorrecta",
+                "correcta"
+            ],
+            "solution": "correcta"
+        },
+        {
+            "question_type": "multiple_choice",
+            "statement": "\u00bfPregunta 4?",
+            "options": [
+                "incorrecta",
+                "incorrecta",
+                "correcta",
+                "incorrecta"
+            ],
+            "solution": "correcta"
+        }
+    ]
+}
