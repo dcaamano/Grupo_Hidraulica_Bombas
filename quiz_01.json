@@ -16,36 +16,36 @@
         },
         {
             "question_type": "multiple_choice",
-            "statement": "\u00bfPregunta 2?",
+            "statement": "\u00bfComo se interpreta fisicamente k>0?",
             "options": [
-                "incorrecta",
-                "correcta",
-                "incorrecta",
-                "incorrecta"
+                "menos pérdidas de energía en el sistema de tuberías",
+                "una bomba de mayor potencia",
+                "más pérdidas de energía en el sistema de tuberías",
+                "un aumento del en el diámetro de las tuberías"
             ],
-            "solution": "correcta"
+            "solution": "más pérdidas de energía en el sistema de tuberías"
         },
         {
             "question_type": "multiple_choice",
-            "statement": "\u00bfPregunta 3?",
+            "statement": "\u00bfQue sucede con el punto de equilibrio al cerrar parcialmente la válvula?",
             "options": [
-                "incorrecta",
-                "incorrecta",
-                "incorrecta",
-                "correcta"
+                "aumenta el caudal y aumenta la altura",
+                "disminuye el caudal y disminuye la altura",
+                "aumenta el caudal y disminuye la altura",
+                "disminuye el caudal y aumenta la altura"
             ],
-            "solution": "correcta"
+            "solution": "disminuye el caudal y aumenta la altura"
         },
         {
             "question_type": "multiple_choice",
-            "statement": "\u00bfPregunta 4?",
+            "statement": "\u00bf Qué sucedería con el punto de funcionamiento si la altura estática cambia a 10 m?",
             "options": [
-                "incorrecta",
-                "incorrecta",
-                "correcta",
-                "incorrecta"
+                "aumenta el caudal y aumenta la altura",
+                "disminuye el caudal y disminuye la altura",
+                "aumenta el caudal y disminuye la altura",
+                "disminuye el caudal y aumenta la altura"
             ],
-            "solution": "correcta"
+            "solution": "disminuye el caudal y aumenta la altura"
         }
     ]
 }
